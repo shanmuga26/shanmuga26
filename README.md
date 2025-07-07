@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hi, I’m Shanmuga Lingam</h1>
 <h3 align="center">Biomedical Engineer | AI in Healthcare | Embedded IoT Developer | Machine Learning Enthusiast</h3>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=shanmuga26&color=blue" alt="visitor counter"/>
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -20,21 +24,24 @@ I specialize in developing real-time vitals monitoring systems, predictive AI mo
 
 ## 🛠️ Tech Stack
 
-| Category          | Tools & Frameworks                                                |
-|-------------------|--------------------------------------------------------------------|
-| Programming       | Python, C, Embedded C, Assembly                                   |
-| AI/ML             | scikit-learn, TensorFlow, OpenCV, pandas, NumPy                   |
-| Data Science      | EDA, Signal Processing, Predictive Modeling                       |
-| Embedded Systems  | ESP32, Arduino, MAX30102, DS18B20, MPU6050, AD8232 ECG            |
-| Web Development   | Flask, REST APIs, HTML, CSS, Chart.js                             |
-| Alerts & Automation | Twilio SMS API, dotenv, HTTP Requests                          |
-| Tools/Platforms   | GitHub, Git Bash, VS Code, Jupyter, PlatformIO                    |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/ESP32-0069ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino"/>
+</p>
 
 ---
 
 ## 🔬 My Key Projects
 
-### 👶 AI-Powered Neonatal Vitals Monitoring System
+### 👶 [AI-Powered Neonatal Vitals Monitoring System](https://github.com/shanmuga26/ai-neonatal-vital-monitoring-system)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![ESP32](https://img.shields.io/badge/ESP32-embedded-green)
+![Flask](https://img.shields.io/badge/Flask-API-lightgrey)
+![Twilio](https://img.shields.io/badge/Twilio-SMS-red)
 - ESP32-based neonatal health monitoring using **MAX30102**, **DS18B20**, **MPU6050**, and **ECG sensors**.
 - Real-time data sent to a **Flask server**, analyzed using a **KNN model**, and alerts sent via **Twilio**.
 - Visualizes vitals trends on a **web dashboard**.
@@ -60,21 +67,21 @@ To build scalable, AI-powered health monitoring systems and **deploy embedded he
 
 ---
 
-## 🌟 Ongoing Learning
-
-- 🔍 Advanced AI in Healthcare
-- ⚙️ Embedded AI systems
-- ☁️ Cloud Deployments (AWS, GCP for healthcare apps)
-- 🔧 Continuous LeetCode practice in Python & C
-
----
-
 ## 📚 Certifications
 
 - Google Cloud ML Foundations
 - IBM AI for Healthcare Specialization
 - Coursera Embedded Systems & IoT
 - TwilioQuest: Twilio API Integrations (SMS Alerts)
+
+---
+
+## 🌟 Ongoing Learning
+
+- Advanced AI in Healthcare by Stanford
+- Embedded AI with TensorFlow Lite
+- Cloud Deployments (AWS, GCP)
+- LeetCode Practice (Python, C, DSA)
 
 ---
 
@@ -86,9 +93,10 @@ To build scalable, AI-powered health monitoring systems and **deploy embedded he
 ---
 
 ## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanmuga26&show_icons=true&theme=github_dark" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmuga26&layout=compact&theme=github_dark" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=shanmuga26&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmuga26&layout=compact&theme=radical" width="45%">
 </p>
 
 ---
